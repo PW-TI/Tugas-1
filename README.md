@@ -4,11 +4,10 @@ Tugas Pertama Terbagi Menjadi :
 * Buat Curriculum Vitae diri Anda menggunakan halaman HTML
   * cv.html
 * Harus berisikan
-  * Photomu
+  * Photo
   * Table 
   * Listeing (bullet dan numbering)
-  * Link ke media sosial anda
-  * Email Link
+  * Link ke media sosial dan email
   * Gunakan Font yang menarik
   * Buatlah sekreatif mungkin
 ## 2. HTML Form
@@ -18,7 +17,7 @@ Tugas Pertama Terbagi Menjadi :
   * Gunakan metode POST dan GET untuk setiap formulir
 * Formulir harus mengandung setidaknya
   * Text field, radio button, select box, text area, check box
-  * Hidden value (set value = your student NIM)
+  * Hidden value (set value = NIM nim mahasiswa)
   * Submit and reset button
 * Buat halaman HTML untuk menampilkan data yang di kirimkan
   * hasil.html
@@ -26,4 +25,4 @@ Tugas Pertama Terbagi Menjadi :
 ## 3. HTML Index
 Buat halaman indeks HTML (index.html) yang berisi cerita singkat tentang diri Anda (ringkasan)
 tambahkan tautan untuk membuka halaman web sebelumnya
-Tambahkan tautan di halaman cv.html, form1.html, form2.html dan hasil.html untuk kembali ke indeks
+Tambahkan tautan di halaman cv.html, form1.html, form2.html dan hasil.html serta tautan untuk kembali ke indeks
