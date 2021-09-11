@@ -1,5 +1,7 @@
 # Tugas Pertama
 Tugas Pertama Terbagi Menjadi : 
+## Meyelesaikan materi 
+Meyelesaikan Pembelajaran [Codecademy Course - HTML](https://www.codecademy.com/learn/learn-html) dan [codecamp](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5)
 ## 1. HTML Basic
 * Buat Curriculum Vitae diri Anda menggunakan halaman HTML
   * cv.html
