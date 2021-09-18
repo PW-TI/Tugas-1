@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en-ID">
+<head>
+    <title>cv warizal</title>
+</head>
+<style>
+table, th, td {
+  border:0px solid black;
+}
+.city{
+  background-color: bisque;
+  color: white;
+  padding: 10px;
+}
+
+</style>
+<body > 
+  <nav style="text-align: right; background-color: aqua;">
+    <a href="../index.html">Home</a> |
+    <a href="../cv/cv.html">CV</a> |
+    <a href="../form2/contact.html">Contact</a> |
+    <a href="../form1/about.html">About me</a>
+</nav>
+    <header style="background-color:aqua" >
+    <table style="width:100% ;">
+     <tr>
+      <td style="text-align: center;"><img src="poto.jpg" alt="rizal" width="150px" style="border-radius:50%" >
+      </td>
+      <td style="height: 50%;">
+        <h1> <br> WARIZAL ILWI </h1>
+        </tr>
+    </table>
+    </header>
+    <table style="width: 100%;">
+      <tr>
+        <td><h3><ins> <br> education</ins></h3> 
+          <ol>
+            <li>minw lingkuk buak</li> 
+            <li>smp darussalam kopang</li>
+            <li>smk islam darussalam kopang</li>
+            <li>stmik lombok <br><br><br><br></li>
+           
+          </ol>
+        </td>
+
+        <td >
+      <h3><ins> CV curiculum vitae</ins> </h3>
+      <p>nama  :warizal ilwi <br>
+        tgl    :22-04-2001 <br>
+        alamat :lingkuk buak timuk ds.saba kc.janapria <br>
+        kab    :lombok tengah NTB <br>
+        gender :laki laki <br>
+        usia   :20 th <br>
+
+      </p>
+        </td>
+      </tr>
+    </table>
+
+      <h3><ins>contac</ins></h3>
+      <ul>
+        <li>email :warizalilwi05@gmail.com</li>
+        <li>no hp :087780272001</li>
+        <li>github:warizal</li>
+      </ul>
+
+
+</body>
+</html>
